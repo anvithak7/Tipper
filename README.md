@@ -37,7 +37,7 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 
-Ensuring the animation worked as desired, especially with areas moving up and down as required, was challenging while working on developing an app for the first time. I have not yet been able to animate the app to match my vision 
+Ensuring the animation worked as desired, especially with areas moving up and down as required, was challenging while working on developing an app for the first time. I have not yet been able to animate the app to exactly match my vision for it, but the current version works.
 
 ## Ideas for the Future
 
