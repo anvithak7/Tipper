@@ -4,7 +4,7 @@
 
 Submitted by: **Anvitha Kachinthaya**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -22,19 +22,25 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- List anything else that you can get done to improve the app functionality!
+- [X] Custom tip amounts
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://imgur.com/a/96k0kTQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/link/to/your/gif/file.gif
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Ensuring the animation worked as desired, especially with areas moving up and down as required, was challenging while working on developing an app for the first time. I have not yet been able to animate the app to match my vision 
+
+## Ideas for the Future
+
+- Adding a database for users to store past total amounts and the restaurants they were spent at to calculate food budgets (throughout history and monthly).
 
 ## Credits
 
